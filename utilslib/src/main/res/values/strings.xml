@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BilueUtils</string>
+
+
+    <!--ERROR MESSAGES-->
+    <string name="error_device_cant_dial">This device cannot make phone calls.</string>
+    <string name="error_device_cant_email">No email app installed.</string>
+
+    <!--GENERAL STRINGS-->
+    <string name="ok">OK</string>
+</resources>
